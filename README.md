@@ -6,3 +6,5 @@ se verán herramientas como GIT, SQL, PYTHON
 
 ### GIT
 
+import pandas
+
